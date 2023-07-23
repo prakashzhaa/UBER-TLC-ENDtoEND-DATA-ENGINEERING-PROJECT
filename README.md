@@ -14,3 +14,4 @@ The goal of this project is to perform data analytics on Uber TCL data using var
 # Data Model 
 link-https://lucid.app/lucidchart/08d7e5ec-9c3a-4b97-bcfa-d1848e3adeb7/edit?viewport_loc=-1005%2C-443%2C2640%2C1258%2C0_0&invitationId=inv_fbb0ae9d-c591-4c5c-9a6a-3e19679057eb
 
+![data model](https://github.com/prakashzhaa/UBER-TLC-DATA-ANALYTICS/assets/73091946/792d2f8c-3ea5-4fbc-8561-c64a8f873cec)
