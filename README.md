@@ -23,10 +23,19 @@ link-https://lucid.app/lucidchart/08d7e5ec-9c3a-4b97-bcfa-d1848e3adeb7/edit?view
 * Data Modeling Design Tool: Lucidchart
          it is a web-based diagramming application that allows users to visually collaborate on drawing, revising and sharing charts and 
         diagrams, and improve processes, systems, and organizational structures.
+* Data Pipelining Tool:
+  1. Mage Ai:   The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data
+     * link-https://github.com/mage-ai/mage-ai
+     * myapp-http://00.000.000.000:6789/pipelines/uber_etl_pipeline/
 * Google Cloud Platform:
   1. Google Storage
   2. Compute Instance
   3. BigQuery
   4. Looker Studio
+
+# Conclusion Report
+  * link to the report https://lookerstudio.google.com/reporting/ae2ac20f-ae7c-4639-889b-62662efe7a6a
+![analytics_final](https://github.com/prakashzhaa/UBER-TLC-DATA-ANALYTICS/assets/73091946/95de6010-74bd-485c-af92-a6fb9c65b9e9)
+
      
 
