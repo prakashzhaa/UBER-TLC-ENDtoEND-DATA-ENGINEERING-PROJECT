@@ -9,7 +9,7 @@ More info about dataset can be found here:
   3. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 # Goal
-The goal of this project is to perform data analytics on Uber TCL data using various tools and technologies, including GCP Storage, Python3 Pandas, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio also used lucid app for web-based diagramming application that allows users to visually collaborate on drawing.
+The goal of this project is to perform end to end data engineering on Uber TCL data using various tools and technologies, including GCP Storage, Python3 Pandas, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio also used lucid app for web-based diagramming application that allows users to visually collaborate on drawing.
 
 # Data Model 
 link-https://lucid.app/lucidchart/08d7e5ec-9c3a-4b97-bcfa-d1848e3adeb7/edit?viewport_loc=-1005%2C-443%2C2640%2C1258%2C0_0&invitationId=inv_fbb0ae9d-c591-4c5c-9a6a-3e19679057eb
